@@ -1,0 +1,2 @@
+transformers
+qwen-vl-utils==0.0.2
